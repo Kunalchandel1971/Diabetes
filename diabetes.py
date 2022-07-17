@@ -89,6 +89,3 @@ print(std_data)
 
 prediction = classifier.predict(std_data)
 print(prediction)
-
-def fdsf():
-    pass
